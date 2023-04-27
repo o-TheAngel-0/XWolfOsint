@@ -25,5 +25,5 @@ $ python3 XWolfOsint.py
 -----------------------------------------
 
 ### Credits
-Copyright © 2021 by <a href="https://x-angel-x.netlify.app/">@Retr0</a>
+Copyright © 2023 by <https://x-angel-x.netlify.app/>
 
